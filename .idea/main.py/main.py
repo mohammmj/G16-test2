@@ -1,13 +1,12 @@
 from abbe import *
-<<<<<<< HEAD
-from ibbe import hej
+from ibbe import *
+from mohammad import *
+from albert import *
 
 hej()
 hello()
-=======
-from mohammad import *
 
 
-hello()
+helloAlbert()
 helloMohammad()
->>>>>>> d7f46222bf2a73c6551ca3d24e601a86514e7885
+
